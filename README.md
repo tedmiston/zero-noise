@@ -31,3 +31,7 @@ I originally created this script in August 2013.  I think it was originally insp
 ## Alternatives
 
 - [SimplyNoise](https://simplynoise.com/) / [SimplyRain](https://rain.simplynoise.com/) - I use SimplyNoise regularly.  The main tradeoff here is that the web apps still use Flash and are quite resource intensive on OS X.  They also have a (paid) native app for iOS and Android.
+
+## Further Reading
+
+- [Does white noise improve concentration?](http://skeptics.stackexchange.com/questions/8025/does-white-noise-improve-concentration)
