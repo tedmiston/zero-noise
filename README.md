@@ -1,37 +1,32 @@
 # Zero Noise
 
-I play colored noise through headphones to drown out the background noise in an open office, coffee shops, or other environments where people are talking but I need to focus.
+I wrote this short script to block out background noise like conversations and music in open office spaces and busy coffee shops.
 
-Zero Noise plays brown noise, one [color of noise](https://en.wikipedia.org/wiki/Colors_of_noise), to mask distracting sounds around you.  Brown noise is related to white noise, but much softer and more pleasant.  It is currently a _very_ thin wrapper around SoX + Core Audio.
+Zero Noise plays various [colors of noise][colors]: white, pink, or brown.
 
-## Work In Progress
-
-I'm currently experimenting with parameters to and would like this to become a simple headless app with optional GUI for tweaking settings like volume and hardness.
+This script is a wrapper around SoX + Core Audio.
 
 ## Setup
 
-```bash
-brew install sox
-```
+    brew install sox
 
 ## Quickstart
 
-```bash
-./noise.sh
-```
+    ./noise.sh
 
-## Background Mode
+## Backgrounding
 
-If you background the process normally (`C-z`), the sound will stop.  One workaround is to start it in a tmux session, then background the session, in which case the colored noise will continue playing.
-
-## History
-
-I originally created this script in August 2013.  I think it was originally inspired by a comment on Hacker News or Stack Overflow.
+If you background the process normally (`C-z`), the sound will stop.  A workaround is to start it in a tmux session, then background that session to keep the colored noise playing.
 
 ## Alternatives
 
-- [SimplyNoise](https://simplynoise.com/) / [SimplyRain](https://rain.simplynoise.com/) - I use SimplyNoise regularly.  The main tradeoff here is that the web apps still use Flash and are quite resource intensive on OS X.  They also have a (paid) native app for iOS and Android.
+- [SimplyNoise][simplynoise] + [SimplyRain][simplyrain]
 
 ## Further Reading
 
-- [Does white noise improve concentration?](http://skeptics.stackexchange.com/questions/8025/does-white-noise-improve-concentration)
+- [Does white noise improve concentration?][concentration]
+
+[colors]: https://en.wikipedia.org/wiki/Colors_of_noise
+[concentration]: http://skeptics.stackexchange.com/questions/8025/does-white-noise-improve-concentration
+[simplynoise]: https://simplynoise.com/
+[simplyrain]: https://rain.simplynoise.com/
