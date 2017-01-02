@@ -1,10 +1,15 @@
 # Zero Noise
 
-I wrote this short script to block out background noise like conversations and music in open office spaces and busy coffee shops.
+**Zero Noise** is a simple, lightweight multicolor noise generator.
 
-Zero Noise plays various [colors of noise][colors]: white, pink, or brown.
+I wrote this script to block out background noise like conversations in open office spaces and busy coffee shops.
 
-This script is a wrapper around SoX + Core Audio.
+## Features
+
+- Plays various [colors of noise](https://en.wikipedia.org/wiki/Colors_of_noise): white, pink, or brown
+- Built-in timer
+- Uses minimal resources
+- Wrapper around [SoX](http://sox.sourceforge.net) and [Core Audio](https://en.wikipedia.org/wiki/Core_Audio)
 
 ## Setup
 
@@ -20,13 +25,8 @@ If you background the process normally (`C-z`), the sound will stop.  A workarou
 
 ## Alternatives
 
-- [SimplyNoise][simplynoise] + [SimplyRain][simplyrain]
+- [SimplyNoise](https://simplynoise.com/) + [SimplyRain](https://rain.simplynoise.com/)
 
 ## Further Reading
 
-- [Does white noise improve concentration?][concentration]
-
-[colors]: https://en.wikipedia.org/wiki/Colors_of_noise
-[concentration]: http://skeptics.stackexchange.com/questions/8025/does-white-noise-improve-concentration
-[simplynoise]: https://simplynoise.com/
-[simplyrain]: https://rain.simplynoise.com/
+- [Does white noise improve concentration?](http://skeptics.stackexchange.com/questions/8025/does-white-noise-improve-concentration)
