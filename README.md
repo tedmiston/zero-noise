@@ -25,7 +25,18 @@ If you background the process normally (`C-z`), the sound will stop.  A workarou
 
 ## Alternatives
 
+Most alternatives focus on generating ambient sounds or noise cocktails whereas Zero Noise is just a simple colored noise generator.
+
+- [A Soft Murmur](http://asoftmurmur.com)
+- [Brain.fm](https://brain.fm)
+- [Coffitivity](https://coffitivity.com)
+- [GitHub Audio](https://github.audio/)
+- [Hipstersound](http://hipstersound.com)
+- [Noisli](https://www.noisli.com)
+- [Noizio](http://noiz.io)
 - [SimplyNoise](https://simplynoise.com/) + [SimplyRain](https://rain.simplynoise.com/)
+- [Vicinity](http://www.ixeau.com/apps/vicinity/)
+- [zenmix.io](http://zenmix.io/)
 
 ## Further Reading
 
