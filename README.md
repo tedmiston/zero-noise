@@ -34,6 +34,7 @@ Most alternatives focus on generating ambient sounds or noise cocktails whereas 
 - [Hipstersound](http://hipstersound.com)
 - [Noisli](https://www.noisli.com)
 - [Noizio](http://noiz.io)
+- [Simple Habit Focus Player](https://www.simplehabit.com/beta/focus)
 - [SimplyNoise](https://simplynoise.com/) + [SimplyRain](https://rain.simplynoise.com/)
 - Spotify playlists in the Focus section e.g., [Ambient Chill](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3Ogo9pFvBkY), [Deep Focus](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZeKCadgRdKQ), or [Music for Concentration](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3PFzdbtx1Us)
 - [Vicinity](http://www.ixeau.com/apps/vicinity/)
