@@ -1,6 +1,6 @@
 # Zero Noise
 
-**Zero Noise** is a simple, lightweight multicolor noise generator.
+**Zero Noise** is a simple, lightweight multicolor noise generator for [sound masking](https://en.wikipedia.org/wiki/Sound_masking).
 
 I wrote this script to block out background noise like conversations in open office spaces and busy coffee shops.
 
