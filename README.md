@@ -13,11 +13,17 @@ I wrote this script to block out background noise like conversations in open off
 
 ## Setup
 
-    brew install sox
+```shell
+brew bundle
+```
 
 ## Quickstart
 
-    ./noise.sh
+```shell
+./noise.sh
+```
+
+It is also convenient to add a shell alias such as `zn`.
 
 ## Backgrounding
 

@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [ -n "$1" ]
 then
 	duration=$1
 else
-	duration=90:00  # 1.5 hours seems like a reasonable default
+	duration=90:00  # 1.5 hours default
 fi
 
 color="brown"  # found to work (in order of preference): brown, pink, white
